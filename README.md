@@ -14,8 +14,8 @@ A Roblox script hub.
 
 ## Usags
 
-You can directly use Otter Hub by running the [loader.luau](loader.luau) in your Roblox executor.
+You can directly use Otter Hub by running the [`loader.luau`](loader.luau) in your Roblox executor.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more details.
