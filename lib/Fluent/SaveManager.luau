@@ -107,7 +107,7 @@ local SaveManager = {} do
 
 	function SaveManager:Load(name)
 		if (not name) then
-			return false, ""
+			return false, "no config file is selected"
 		end
 		
 		local file = self.Folder .. "/configs/" .. name .. ".json"
