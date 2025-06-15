@@ -1,5 +1,5 @@
 # Otter Hub
-A Roblox script hub.
+A Roblox script hub that runs on Roblox executor.
 
 ## Showcase
 ![](showcase.jpg)
