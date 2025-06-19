@@ -134,6 +134,7 @@ local SaveManager = {} do
 	function SaveManager:BuildFolderTree()
 		local paths = {
 			self.Folder,
+			self.Folder .. "/assets",
 			self.Folder .. "/configs"
 		}
 
