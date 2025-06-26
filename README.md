@@ -9,7 +9,7 @@ A Roblox script hub that runs on Roblox executor.
 - Lightweight, and optimized for performance.
 - Using a simple, aesthetic, and easy to use UI library, Fluent.
 
-## Usags
+## Usage
 You can directly use Otter Hub by running the [`loader.luau`](loader.luau) in your Roblox executor.
 
 ## Notes
